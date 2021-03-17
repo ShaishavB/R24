@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "442234198953",
+    "firebase_url": "https://rummy24-ad18e.firebaseio.com",
+    "project_id": "rummy24-ad18e",
+    "storage_bucket": "rummy24-ad18e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442234198953:android:f081be5463c5e103e642b8",
+        "android_client_info": {
+          "package_name": "com.abilitygames.rummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442234198953-geggbo1es2ilb733k36er9v8a7ouv1vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abilitygames.rummy",
+            "certificate_hash": "a5e39ddf6448e760632e26b3ed6e5c0a3077ed4f"
+          }
+        },
+        {
+          "client_id": "442234198953-ealestl8ve0tlbr78mgccn6q919lfhjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abilitygames.rummy",
+            "certificate_hash": "28c10bcbbf9806e9d5aa55366f7dfb52b923b8d9"
+          }
+        },
+        {
+          "client_id": "442234198953-t3vcs7uo5k33bpi2432et5fbfmq60t0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfUX9ymN6mppUiEaW3D9ogqUnDAgr2TbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442234198953-t3vcs7uo5k33bpi2432et5fbfmq60t0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442234198953-ghocmlfv0ci0sah7m7fsspsl658f93kp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abilitygames.rummy",
+                "app_store_id": "1497685003"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442234198953:android:78b9c969597247e6e642b8",
+        "android_client_info": {
+          "package_name": "com.abilitygames.rummyfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442234198953-9b755ku9varfac7hj8da3gtihefmgom2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abilitygames.rummyfree",
+            "certificate_hash": "28c10bcbbf9806e9d5aa55366f7dfb52b923b8d9"
+          }
+        },
+        {
+          "client_id": "442234198953-as4652378eqfm1arfitl8ut1nao04k5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abilitygames.rummyfree",
+            "certificate_hash": "47bad49546e577d93bbec4fd14a4c9c52634a887"
+          }
+        },
+        {
+          "client_id": "442234198953-t3vcs7uo5k33bpi2432et5fbfmq60t0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfUX9ymN6mppUiEaW3D9ogqUnDAgr2TbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442234198953-t3vcs7uo5k33bpi2432et5fbfmq60t0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "442234198953-ghocmlfv0ci0sah7m7fsspsl658f93kp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abilitygames.rummy",
+                "app_store_id": "1497685003"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
