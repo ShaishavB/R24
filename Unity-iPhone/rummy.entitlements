@@ -4,5 +4,10 @@
 <dict>
 	<key>aps-environment</key>
 	<string>development</string>
+	<key>com.apple.developer.associated-domains</key>
+	<array>
+		<string>applinks:rummy24.sng.link</string>
+		<string>applinks:abilitygames.page.link</string>
+	</array>
 </dict>
 </plist>
